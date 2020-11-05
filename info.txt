@@ -1,0 +1,8 @@
+Name: Mixplat Gateway;
+Parent Addon: user-balance;
+Version: 1.0.1;
+Support Core: 16.17.0;
+ItemID:23755;
+Description: Подключение сайта к платежной системе mixplat https://mixplat.ru/;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
